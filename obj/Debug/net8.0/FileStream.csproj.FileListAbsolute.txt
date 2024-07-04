@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\FileStream\FileStream\obj\Debug\net8.0\FileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FileStream\FileStream\obj\Debug\net8.0\FileStream.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FileStream\FileStream\obj\Debug\net8.0\FileStream.AssemblyInfo.cs
+C:\Users\User\source\repos\FileStream\FileStream\obj\Debug\net8.0\FileStream.csproj.CoreCompileInputs.cache
